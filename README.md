@@ -27,8 +27,8 @@
 <div>
 
 <a href="https://github.com/vianayyasmin">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianayyasmin&layout=compact&langs_count=7&theme=pink"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianayyasmin&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianayyasmin&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianayyasmin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
